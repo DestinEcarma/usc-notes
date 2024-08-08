@@ -1,0 +1,3 @@
+## What is DSA?
+
+Data structures and algorithms, or DSA for short, is the merging of these two distinct but connected subjects. One of the most crucial abilities that each student of computer science should possess is DSA. People who are well-versed in these technologies are frequently observed to be better programmers than others, which helps them succeed in interviews with practically all of the major IT companies.:
