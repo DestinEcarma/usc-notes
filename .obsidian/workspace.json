@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA - CIS 2101.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d6dc61cfa5c5154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA - CIS 2101.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA - CIS 2101.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA - CIS 2101.md"
+                "file": "DSA - CIS 2101/1. Introduction.md"
               }
             }
+          },
+          {
+            "id": "33b5d001aa940f3e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,12 +165,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "496119a51e283a2d",
+  "active": "2d6dc61cfa5c5154",
   "lastOpenFiles": [
-    "DSA - CIS 2101.md",
+    "DSA - CIS 2101/2. Basics.md",
+    "DSA - CIS 2101/1. Introduction.md",
+    "DSA - CIS 2101",
     "create a link.md"
   ]
 }

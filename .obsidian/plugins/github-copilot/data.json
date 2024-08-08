@@ -1,13 +1,13 @@
 {
-  "nodePath": "default",
+  "nodePath": "C:\\Program Files\\nodejs\\node.exe",
   "enabled": true,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",
-    "request": "Cmd-Shift-/",
-    "partial": "Cmd-Shift-.",
-    "next": "Cmd-Shift-ArrowDown",
-    "disable": "Cmd-Shift-ArrowRight"
+    "request": "Ctrl-Shift-R",
+    "partial": "Ctrl-Shift->",
+    "next": "Ctrl-Shift-ArrowRight",
+    "disable": "Pause"
   },
   "suggestionDelay": 500,
   "debug": false,
