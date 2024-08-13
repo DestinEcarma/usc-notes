@@ -4,5 +4,9 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-relative-line-numbers",
+  "cmenu-plugin",
+  "mermaid-tools",
+  "code-styler"
 ]

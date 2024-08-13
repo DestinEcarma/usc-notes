@@ -1,5 +1,13 @@
 {
   "accentColor": "",
   "cssTheme": "GitHub Theme",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "",
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "snippets"
+  ]
 }
