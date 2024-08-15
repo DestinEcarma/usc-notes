@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTriangleRight",
       "LiGitCompareArrows"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +30,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "DSA - CIS 2101": "LiGitCompareArrows"
+  "DSA - CIS 2101": "LiGitCompareArrows",
+  "Discrete III - CS 3101N": "LiTriangleRight"
 }

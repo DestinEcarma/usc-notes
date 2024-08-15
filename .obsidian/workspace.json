@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA - CIS 2101/2. Recall.md",
+                "file": "Discrete III - CS 3101N/Linear Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "394aea6660783156"
+          }
+        ]
+      },
+      {
+        "id": "e5368d642a3fb66a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93af4cc58eaa7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete III - CS 3101N/Linear Algebra.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "394aea6660783156"
           }
         ]
       }
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA - CIS 2101/2. Recall.md",
+                "file": "Discrete III - CS 3101N/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA - CIS 2101/2. Recall.md",
+                "file": "Discrete III - CS 3101N/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA - CIS 2101/2. Recall.md"
+                "file": "Discrete III - CS 3101N/Linear Algebra.md"
               }
             }
           },
@@ -167,8 +187,10 @@
   },
   "active": "33b5d001aa940f3e",
   "lastOpenFiles": [
-    "DSA - CIS 2101/1. Introduction.md",
+    "Discrete III - CS 3101N/Linear Algebra.md",
+    "Discrete III - CS 3101N",
     "DSA - CIS 2101/2. Recall.md",
+    "DSA - CIS 2101/1. Introduction.md",
     "DSA - CIS 2101/2. Basics.md",
     "DSA - CIS 2101",
     "create a link.md"
