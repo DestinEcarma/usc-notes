@@ -4,9 +4,9 @@
 
 **Why is Linear Algebra essential in Computing / Computer Science?**
 
-To answer this question we first have to understand **what is linear algebra?**
+To answer this question we first have to understand **what linear algebra is.**
 
- Linear algebra combines multivariate calculus, differential equations, and probability into a widely applicable mathematical theory and system that undergirds many technologies in our lives. At its core, linear algebra studies vectors and linear functions to solve systems of linear equations that contain multiple variables. It focuses on calculating vectors, which are points in space with magnitude and direction, and matrices, which are tables of numbers (Coursera, 2024)
+ Linear algebra combines multivariate calculus, differential equations, and probability into a widely applicable mathematical theory and system that undergirds many technologies in our lives. At its core, linear algebra studies vectors and linear functions to solve systems of linear equations that contain multiple variables. It focuses on calculating vectors, which are points in space with magnitude and direction, and matrices, which are tables of numbers (Coursera, 2024).
 
 **Machine Learning and Data Science**
 
@@ -14,8 +14,7 @@ Linear algebra is essential for many algorithms in machine learning and data sci
 
 **Optimization**
 
-Linear algebra techniques are crucial in optimization problems, which are central to machine learning, operations research, and computational finance. An example of optimization is the study of "The Impact Paravirtualized Memory Hierarchy on Linear
-Algebra Computational Kernels and Software". Paravirtualization, originally developed to help consolidate servers in commercial settings, this OS-based approach to virtualization has grown rapidly in popularity, this technique in which the guest and the host OSs are both strategically modified to provide optimized performance is used today in several virtualization systems (Youseff et al., 2008).
+Linear algebra techniques are crucial in optimization problems, which are central to machine learning, operations research, and computational finance. An example of optimization is the study of "The Impact Paravirtualized Memory Hierarchy on Linear Algebra Computational Kernels and Software". Paravirtualization, originally developed to help consolidate servers in commercial settings, this OS-based approach to virtualization has grown rapidly in popularity, this technique in which the guest and the host OSs are both strategically modified to provide optimized performance is used today in several virtualization systems (Youseff et al., 2008).
 
 **Quantum Computing**
 

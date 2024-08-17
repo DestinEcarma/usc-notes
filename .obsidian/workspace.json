@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete III - CS 3101N/Linear Algebra.md",
-                "mode": "source",
-                "source": false
+                "file": "DSA - CIS 2101/1. Introduction.md",
+                "mode": "preview",
+                "source": true
               }
             },
             "group": "394aea6660783156"
@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete III - CS 3101N/Linear Algebra.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             },
             "group": "394aea6660783156"
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "9a14ce04f684f499",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete III - CS 3101N/Linear Algebra.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete III - CS 3101N/Linear Algebra.md",
+                "file": "DSA - CIS 2101/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete III - CS 3101N/Linear Algebra.md"
+                "file": "DSA - CIS 2101/1. Introduction.md"
               }
             }
           },
@@ -185,12 +184,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33b5d001aa940f3e",
+  "active": "f91f04ea9fe66789",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "DSA - CIS 2101/1. Introduction.md",
     "Discrete III - CS 3101N/Linear Algebra.md",
     "Discrete III - CS 3101N",
     "DSA - CIS 2101/2. Recall.md",
-    "DSA - CIS 2101/1. Introduction.md",
     "DSA - CIS 2101/2. Basics.md",
     "DSA - CIS 2101",
     "create a link.md"
