@@ -26,3 +26,8 @@ Quantum computing relies heavily on linear algebra, particularly in the represen
 3. Lotfian, M., Ingensand, J., & Brovelli, M. A. (2021). The Partnership of Citizen Science and Machine Learning: Benefits, Risks, and Future Challenges for Engagement, Data Collection, and Data Quality. Sustainability, 13(14), 8087. https://doi.org/10.3390/su13148087
 4. Popenici, S. a. D., & Kerr, S. (2017). Exploring the impact of artificial intelligence on teaching and learning in higher education. Research and Practice in Technology Enhanced Learning, 12(1). https://doi.org/10.1186/s41039-017-0062-8
 5. Youseff, L., Seymour, K., You, H., Dongarra, J., & Wolski, R. (2008). The impact of paravirtualized memory hierarchy on linear algebra computational kernels and software. https://doi.org/10.1145/1383422.1383440
+
+---
+
+**Date:** 2024 August 11:01 PM<br>
+**Tags:** #Discrete #LinearAlgebra

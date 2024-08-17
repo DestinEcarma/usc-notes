@@ -105,7 +105,7 @@ Create a function to insert a new element at the end of a linked list. The funct
 
 **Function Header**
 
-```c title=**insertLast**.h
+```c title=insertLast.h
 void insertLast(List*, int)
 ```
 
@@ -198,3 +198,12 @@ void insertLast(List* L, int x) {
 	}
 }
 ```
+
+## References
+
+1. GeeksforGeeks. (2024, July 30). Basic Terminologies of Linked List. GeeksforGeeks. https://www.geeksforgeeks.org/what-is-linked-list/
+
+---
+
+**Date:** 2024 August, 14 06:14 PM<br>
+**Tags:** #DSA #LinkedList

@@ -13,31 +13,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA - CIS 2101/1. Introduction.md",
-                "mode": "preview",
+                "file": "DSA - CIS 2101/Introduction.md",
+                "mode": "source",
                 "source": true
               }
             },
-            "group": "394aea6660783156"
-          }
-        ]
-      },
-      {
-        "id": "e5368d642a3fb66a",
-        "type": "tabs",
-        "children": [
+            "group": "fbb71f55aeaaf8d9"
+          },
           {
-            "id": "a93af4cc58eaa7c0",
+            "id": "60922f8fc25a8a16",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d58696d78a08b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA - CIS 2101/1. Introduction.md",
+                "file": "Discrete III - CS 3101N/Assignment #1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a9c97bbb41721daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6cfb5a9d75b4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA - CIS 2101/Introduction.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "394aea6660783156"
+            "group": "fbb71f55aeaaf8d9"
           }
         ]
       }
@@ -89,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a14ce04f684f499",
@@ -105,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA - CIS 2101/1. Introduction.md",
+                "file": "DSA - CIS 2101/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA - CIS 2101/1. Introduction.md",
+                "file": "DSA - CIS 2101/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA - CIS 2101/1. Introduction.md"
+                "file": "DSA - CIS 2101/Introduction.md"
               }
             }
           },
@@ -184,13 +205,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f91f04ea9fe66789",
+  "active": "f0c4cc9796787f3f",
   "lastOpenFiles": [
+    "Discrete III - CS 3101N/Assignment #1.md",
     "Untitled.canvas",
-    "DSA - CIS 2101/1. Introduction.md",
-    "Discrete III - CS 3101N/Linear Algebra.md",
+    "DSA - CIS 2101/Introduction.md",
+    "Discrete III - CS 3101N/1. Introduction.md",
+    "DSA - CIS 2101/Recall.md",
+    "Templates/Full Note.md",
+    "Templates",
     "Discrete III - CS 3101N",
-    "DSA - CIS 2101/2. Recall.md",
     "DSA - CIS 2101/2. Basics.md",
     "DSA - CIS 2101",
     "create a link.md"

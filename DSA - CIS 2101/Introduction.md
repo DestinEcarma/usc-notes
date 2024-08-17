@@ -21,4 +21,11 @@ There are four components to learning DSA from scratch in its entirety:
 3. Study the fundamentals of algorithms.  
 4. Practice DSA Problems
 
-[[2. Recall]]
+## References
+
+1. GeeksforGeeks. (2024, July 31). Learn Data Structures and Algorithms  DSA Tutorial. GeeksforGeeks. https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
+
+---
+
+**Date:** 2024 August, 11 06:07 PM<br>
+**Tags:** #DSA
