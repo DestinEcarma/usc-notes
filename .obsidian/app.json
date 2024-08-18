@@ -1,7 +1,7 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "strictLineBreaks": true,
   "propertiesInDocument": "visible",
   "foldHeading": true,
@@ -10,5 +10,6 @@
   "rightToLeft": false,
   "readableLineLength": true,
   "livePreview": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
