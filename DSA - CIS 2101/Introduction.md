@@ -1,3 +1,9 @@
+---
+creation date: 2024-08-09T01:26:58
+tags:
+  - DSA
+---
+
 # What is DSA?
 
 Data structures and algorithms, or DSA for short, is the merging of these two distinct but connected subjects. One of the most crucial abilities that each student of computer science should possess is DSA. People who are well-versed in these technologies are frequently observed to be better programmers than others, which helps them succeed in interviews with practically all of the major IT companies. This is because these subjects are the foundation of computer science and programming, and they are used in almost every aspect of programming.
@@ -10,7 +16,7 @@ A data structure is a specific method that we employ to ==store and arrange data
 
 An algorithm is ==a step-by-step procedure for solving a problem==. It is a sequence of well-defined instructions that take some value, or set of values, as input and produce some value, or set of values, as output. In other words, an algorithm is a sequence of computational steps that transform the input into the output.
 
-## :LiAlertCircle: First step of learning DSA
+## :LiAlertCircle: First step of Learning DSA
 
 The most important thing is to break down the entire process into smaller steps that must be completed in order.
 
@@ -24,8 +30,3 @@ There are four components to learning DSA from scratch in its entirety:
 ## References
 
 1. GeeksforGeeks. (2024, July 31). Learn Data Structures and Algorithms  DSA Tutorial. GeeksforGeeks. https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
-
----
-
-**Date:** 2024 August, 11 06:07 PM<br>
-**Tags:** #DSA

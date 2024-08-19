@@ -1,3 +1,9 @@
+---
+creation date: 2024-08-17T22:28:07
+aliases:
+  - PPN
+---
+
 # Pointer To Pointer To Node
 
 A pointer to a pointer to a node `Node**` is a technique used to manipulate linked lists, particularly when dealing with operations like inserting or deleting nodes.
@@ -13,7 +19,3 @@ void insertAtHead(Node** headRef, int newData) {
 	*headRef = newNode;
 }
 ```
-
----
-
-**Date:** 2024 August, 17 10:42 PM<br>

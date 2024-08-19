@@ -1,11 +1,11 @@
 [
   "obsidian-git",
   "github-copilot",
-  "dataview",
   "table-editor-obsidian",
-  "obsidian-tasks-plugin",
   "obsidian-icon-folder",
   "obsidian-relative-line-numbers",
-  "cmenu-plugin",
-  "code-styler"
+  "code-styler",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian"
 ]

@@ -1,22 +1,14 @@
+---
+creation date: 2024-08-14T03:10:28
+tags:
+  - DSA
+---
+
 # Linked List
 
 The components of a **linked list**, a type of ==linear data structure, are connected by pointers rather than kept in one continuous area==. A linked list is made up of a number of connected nodes, each of which has data and the address of the node after it.
 
-```mermaid
-graph LR
-	subgraph Node
-		data
-		next
-	end
-```
-
-```mermaid
-graph LR
-    A((Head)) --> B[Node 1] 
-    B --> C[Node 2]
-    C --> D[Node 3]
-    D --> E((NULL))
-```
+![[Linked List Sample.excalidraw|100%]]
 
 **Node Structure:** A linked list's nodes normally consist of two parts:
 
@@ -28,8 +20,3 @@ graph LR
 ## References
 
 1. GeeksforGeeks. (2024, July 30). Basic Terminologies of Linked List. GeeksforGeeks. https://www.geeksforgeeks.org/what-is-linked-list/
-
----
-
-**Date:** 2024 August, 14 06:14 PM<br>
-**Tags:** #DSA 

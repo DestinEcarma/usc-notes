@@ -3,13 +3,13 @@
   "showLineNumber": true,
   "showInlineTitle": false,
   "strictLineBreaks": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "foldHeading": true,
   "foldIndent": false,
   "showIndentGuide": true,
   "rightToLeft": false,
   "readableLineLength": true,
   "livePreview": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true
 }

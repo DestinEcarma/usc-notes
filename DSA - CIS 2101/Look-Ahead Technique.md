@@ -1,3 +1,7 @@
+---
+creation date: 2024-08-17T22:30:02
+---
+
 # Look-Ahead Technique
 
 The look-ahead technique is ==used to access or modify the next node in the list while still processing the current node==. This is useful when you need to make decisions based on the next node's data or structure.
@@ -8,20 +12,17 @@ As you traverse the list, you keep an eye on the node following the current node
 void deleteAfter(Node* head, int key) {
 	Node* curr = head;
 
-	while (curr != NULL && curr->next != NULL) {
-		if (curr->data == key) {
-			Node* temp = curr->next;
+	if (curr != NULL) {
+		while (
+			curr->data != key && \ // `\` is not needed on modern compilers
+			curr->next != NULL
+		) curr = curr->next;
+
+		if (curr->next != NULL) {
+		    Node* temp = curr->next;
 			curr->next = temp->next;
 			free(temp);
-
-			break;
-	    }
-
-		curr = curr->next;
+		}
 	}
 }
 ```
-
----
-
-**Date:** 2024 August, 17 10:42 PM<br>

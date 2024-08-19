@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencilRuler",
       "LiTags",
       "LiBookTemplate",
       "LiTriangleRight",
@@ -35,5 +36,5 @@
   "DSA - CIS 2101": "LiGitCompareArrows",
   "Discrete III - CS 3101N": "LiTriangleRight",
   "Templates": "LiBookTemplate",
-  "Tags": "LiTags"
+  "Excalidraw": "LiPencilRuler"
 }
