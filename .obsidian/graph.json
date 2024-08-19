@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"DSA - CIS 2101\"  ",
+  "search": "-tag:#excalidraw",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3798368146015099,
-  "close": true
+  "scale": 0.5730685665099944,
+  "close": false
 }

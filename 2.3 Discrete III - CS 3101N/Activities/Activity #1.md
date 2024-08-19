@@ -27,7 +27,7 @@ Linear algebra techniques are crucial in optimization problems, which are centra
 
 **Quantum Computing**
 
-Quantum computing relies heavily on linear algebra, particularly in the representation of quantum states and the operations performed on them. Quantum computing promises to solve certain computational tasks exponentially faster than classical computers with application domains ranging from cryptography to chemistry and material science (Häner et al., 2021).
+This is the most interesting study to me, and I am very interested in learning more about "Quantum Physics/Mechanics."  Sadly, this is not our topic. Quantum computing relies heavily on linear algebra, particularly in the representation of quantum states and the operations performed on them. Quantum computing promises to solve certain computational tasks exponentially faster than classical computers with application domains ranging from cryptography to chemistry and material science (Häner et al., 2021).
 
 ## References
 

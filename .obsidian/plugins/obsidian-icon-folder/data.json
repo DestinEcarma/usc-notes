@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSnapToObject",
       "LiPencilRuler",
       "LiTags",
       "LiBookTemplate",
-      "LiTriangleRight",
-      "LiGitCompareArrows"
+      "LiTriangleRight"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,8 +33,17 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "DSA - CIS 2101": "LiGitCompareArrows",
-  "Discrete III - CS 3101N": "LiTriangleRight",
   "Templates": "LiBookTemplate",
-  "Excalidraw": "LiPencilRuler"
+  "2.2 OOP - 2103": {
+    "iconName": "LiSnapToObject",
+    "iconColor": "#dd9822"
+  },
+  "2.3 Discrete III - CS 3101N": {
+    "iconName": "LiTriangleRight",
+    "iconColor": "#74d733"
+  },
+  "2.1 DSA - CIS 2101": {
+    "iconName": "LiGitCompareArrows",
+    "iconColor": "#c72323"
+  }
 }

@@ -8,36 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc77efbba85b2894",
+            "id": "afdcc763e9636269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA - CIS 2101/Activities/Activity #2.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             },
-            "group": "f341fd6ef19671d2"
+            "group": "59f799458c94618e"
           }
         ]
       },
       {
-        "id": "f5def4519540316a",
+        "id": "b2e946b86c5038c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b65c7421437b4942",
+            "id": "8a9753e962226f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA - CIS 2101/Activities/Activity #2.md",
+                "file": "Quick Notes.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "f341fd6ef19671d2"
+            "group": "59f799458c94618e"
           }
         ]
       }
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA - CIS 2101/Activities/Activity #2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA - CIS 2101/Activities/Activity #2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA - CIS 2101/Activities/Activity #2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,38 +170,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b65c7421437b4942",
+  "active": "afdcc763e9636269",
   "lastOpenFiles": [
+    "Quick Notes.md",
+    "Drawing 2024-08-19 16.50.43.excalidraw.md",
     "Templates/Full Note.md",
-    "Discrete III - CS 3101N/Activities/Activity #1.md",
-    "Discrete III - CS 3101N/Activities",
-    "DSA - CIS 2101/Pointer To Pointer To Node.md",
-    "DSA - CIS 2101/Look-Ahead Technique.md",
-    "DSA - CIS 2101/Trailing Pointers.md",
-    "DSA - CIS 2101/Traversal.md",
-    "DSA - CIS 2101/Linked List.md",
-    "DSA - CIS 2101/Introduction.md",
-    "DSA - CIS 2101/Activities/Activity #2.md",
-    "DSA - CIS 2101/Activities/Activity #1.md",
-    "Excalidraw/Linked List Sample.excalidraw.md",
-    "Excalidraw",
-    "DSA - CIS 2101/Activities",
+    "2.3 Discrete III - CS 3101N/Activities/Activity #1.md",
+    "Untitled.md",
+    "2.1 DSA - CIS 2101/Traversal.md",
+    "2.1 DSA - CIS 2101/Trailing Pointers.md",
+    "2.1 DSA - CIS 2101/Pointer To Pointer To Node.md",
+    "2.1 DSA - CIS 2101/Look-Ahead Technique.md",
+    "2.1 DSA - CIS 2101/Linked List.md",
+    "2.1 DSA - CIS 2101/Introduction.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Linked List Sample.excalidraw.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #1.md",
+    "2.1 DSA - CIS 2101/Activities/Activity.md",
+    "2.2 OOP - 2103/Activities/Activity #1.md",
+    "2.2 OOP - 2103/Excalidraw/Object Sample.excalidraw.md",
+    "2.2 OOP - 2103/Excalidraw/Class Sample.excalidraw.md",
+    "2.2 OOP - 2103/Classes And Objects.md",
+    "2.2 OOP - 2103/Introduction.md",
+    "2.2 OOP - 2103/Activities",
+    "2.2 OOP - 2103/Excalidraw",
+    "OOP - 2103",
+    "2.2 OOP - 2103",
+    "2.3 Discrete III - CS 3101N/Activities",
+    "2.1 DSA - CIS 2101/Excalidraw",
+    "2.1 DSA - CIS 2101/Activities",
     "2024-08-01.md",
     "PPN.md",
     "DSA - CIS 2101/Activity.md",
     "Pointer.md",
-    "Untitled.md",
     "Tags/Linked List.md",
     "Tags/Data Structure and Algorithm.md",
     "Tags",
     "fdsf",
     "New folder",
-    "Untitled.canvas",
-    "Discrete III - CS 3101N/1. Introduction.md",
-    "Templates",
-    "Discrete III - CS 3101N",
-    "DSA - CIS 2101/2. Basics.md",
-    "DSA - CIS 2101",
-    "create a link.md"
+    "Untitled.canvas"
   ]
 }
