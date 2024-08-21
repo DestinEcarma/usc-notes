@@ -33,7 +33,7 @@ typedef struct node {
 	1. List without header cell using PPN.
 	2. List without header cell using look-ahead technique.
 
-## Answers
+## Answer
 
 - Initialize the list to be empty (***With header cell*** vs. ***Without Header Cell***)
 

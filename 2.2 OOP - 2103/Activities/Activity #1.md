@@ -5,7 +5,7 @@ tags:
   - OOP
 ---
 
-# Practice #1
+# Activity #1
 
 ```java title=practice
 import java.util.*;

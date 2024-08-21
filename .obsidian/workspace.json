@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "47e45be877d532d6",
+        "id": "e13eccaf85a287b9",
         "type": "tabs",
         "children": [
           {
-            "id": "d04df8fd096382a3",
+            "id": "750ef2bf387b570c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2.3 Discrete III - CS 3101N/Quick Notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "b52038d085f3a8a8"
+          }
+        ]
+      },
+      {
+        "id": "7a85ec6a7fc96848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "302b9291bef291d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3 Discrete III - CS 3101N/Quick Notes.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b52038d085f3a8a8"
           }
         ]
       }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a14ce04f684f499",
@@ -157,14 +178,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d04df8fd096382a3",
+  "active": "302b9291bef291d3",
   "lastOpenFiles": [
-    "2.3 Discrete III - CS 3101N/Excalidraw",
     "2.3 Discrete III - CS 3101N/Excalidraw/Figure 1.excalidraw.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #4.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Drawing 2024-08-21 20.19.57.excalidraw.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Untitled.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #3.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #1.md",
+    "2.2 OOP - 2103/Activities/Activity #1.md",
     "2.3 Discrete III - CS 3101N/Quick Notes.md",
-    "Figure.md",
+    "2.2 OOP - 2103/Classes And Objects.md",
     "Excalidraw/Drawing 2024-08-20 23.34.36.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 23.34.36_0.excalidraw.md",
+    "2.3 Discrete III - CS 3101N/Excalidraw",
+    "Figure.md",
     "Excalidraw",
     "Untitled.md",
     "Templates/Full Note.md",
@@ -176,14 +205,9 @@
     "2.1 DSA - CIS 2101/Linked List.md",
     "2.1 DSA - CIS 2101/Introduction.md",
     "2.1 DSA - CIS 2101/Excalidraw/Linked List Sample.excalidraw.md",
-    "2.1 DSA - CIS 2101/Activities/Activity #2.md",
-    "2.1 DSA - CIS 2101/Activities/Activity #1.md",
     "2.1 DSA - CIS 2101/Activities/Activity.md",
-    "2.2 OOP - 2103/Activities/Activity #1.md",
     "2.2 OOP - 2103/Excalidraw/Object Sample.excalidraw.md",
     "2.2 OOP - 2103/Excalidraw/Class Sample.excalidraw.md",
-    "2.2 OOP - 2103/Classes And Objects.md",
-    "2.2 OOP - 2103/Introduction.md",
     "2.2 OOP - 2103/Activities",
     "2.2 OOP - 2103/Excalidraw",
     "OOP - 2103",
@@ -191,10 +215,7 @@
     "2.3 Discrete III - CS 3101N/Activities",
     "2.1 DSA - CIS 2101/Excalidraw",
     "2.1 DSA - CIS 2101/Activities",
-    "2024-08-01.md",
-    "PPN.md",
     "Tags",
-    "fdsf",
     "Untitled.canvas"
   ]
 }

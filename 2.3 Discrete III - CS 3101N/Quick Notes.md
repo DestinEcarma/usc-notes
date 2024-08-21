@@ -82,7 +82,6 @@ Linear algebra is considered a basic concept in the modern presentation of geome
 - $\mathbb{R}^{2} = \mathbb{R} \times \mathbb{R}$ is a 2-dimentional space.
 - $\mathbb{R}^{3} = \mathbb{R} \times \mathbb{R} \times \mathbb{R}$ is a 3-dimentional space.
 
-
 ## Overview of Topics
 
 - **Systems of Linear Equations**
@@ -94,13 +93,13 @@ Linear algebra is considered a basic concept in the modern presentation of geome
 
 ## References
 
-- Admin. (2023, January 10). Linear Algebra Introduction | Linear Functions, Applications and Examples. BYJUS. https://byjus.com/maths/linear-algebra/
-- Banerjee, S., & Roy, A. (2014). Linear Algebra and Matrix Analysis for Statistics. CRC Press.
-- Mathigon. (n.d.). Linear Transformations – Linear Algebra – Mathigon. Mathigon. Retrieved August 20, 2024, from https://mathigon.org/course/linear-algebra/linear-transformations
-- Project, X. (n.d.). VEC-0040: Linear Combinations of Vectors. Ximera. https://ximera.osu.edu/la/LinearAlgebra/VEC-M-0040/main
-- Ronan, M. A. (2024, August 16). Linear algebra | Matrices, Vectors & Equations. Encyclopedia Britannica. https://www.britannica.com/science/linear-algebra
-- Strang, G. (2006). Linear algebra and its applications. Recording for the Blind & Dyslexic.
-- Weisstein, W. (n.d.). Linear Algebra. MathWorld. Retrieved August 20, 2024, from https://mathworld.wolfram.com/LinearAlgebra.html
+1. Admin. (2023, January 10). Linear Algebra Introduction | Linear Functions, Applications and Examples. BYJUS. https://byjus.com/maths/linear-algebra/
+2. Banerjee, S., & Roy, A. (2014). Linear Algebra and Matrix Analysis for Statistics. CRC Press.
+3. Mathigon. (n.d.). Linear Transformations – Linear Algebra – Mathigon. Mathigon. Retrieved August 20, 2024, from https://mathigon.org/course/linear-algebra/linear-transformations
+4. Project, X. (n.d.). VEC-0040: Linear Combinations of Vectors. Ximera. https://ximera.osu.edu/la/LinearAlgebra/VEC-M-0040/main
+5. Ronan, M. A. (2024, August 16). Linear algebra | Matrices, Vectors & Equations. Encyclopedia Britannica. https://www.britannica.com/science/linear-algebra
+6. Strang, G. (2006). Linear algebra and its applications. Recording for the Blind & Dyslexic.
+7. Weisstein, W. (n.d.). Linear Algebra. MathWorld. Retrieved August 20, 2024, from https://mathworld.wolfram.com/LinearAlgebra.html
 ---
 
 Linear algebra is a branch of mathematics that is widely used throughout science and engineering. It is used to solve systems of linear equations, to study the properties of matrices, and to analyze the geometry of objects in space. Linear algebra is also used in computer graphics, computer vision, and machine learning.

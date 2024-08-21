@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity #4.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quick Notes.md",
+            "file": "2.1 DSA - CIS 2101/Activities/Activity #4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quick Notes.md",
+            "file": "2.1 DSA - CIS 2101/Activities/Activity #4.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quick Notes.md"
+            "file": "2.1 DSA - CIS 2101/Activities/Activity #4.md"
           }
         }
       }
@@ -136,14 +136,19 @@
   },
   "active": "f8187c8aeaf6b3eb",
   "lastOpenFiles": [
+    "2.2 OOP - 2103/Classes And Objects.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #4.md",
+    "2.1 DSA - CIS 2101/Activities/Activity #3.md",
+    "2.3 Discrete III - CS 3101N/Quick Notes.md",
+    "2.3 Discrete III - CS 3101N/Excalidraw/Figure 1.excalidraw.md",
+    "2.1 DSA - CIS 2101/Look-Ahead Technique.md",
+    "2.1 DSA - CIS 2101/Linked List.md",
+    "2.2 OOP - 2103/Introduction.md",
     "Figure 1.excalidraw.md",
     "2.1 DSA - CIS 2101/Introduction.md",
-    "2.2 OOP - 2103/Introduction.md",
     "2.2 OOP - 2103/Excalidraw/Object Sample.excalidraw.md",
-    "2.2 OOP - 2103/Classes And Objects.md",
     "2.1 DSA - CIS 2101/Excalidraw/Linked List Sample.excalidraw.md",
     "Drawing 2024-08-19 16.50.43.excalidraw.md",
-    "Quick Notes.md",
-    "2.1 DSA - CIS 2101/Linked List.md"
+    "Quick Notes.md"
   ]
 }
