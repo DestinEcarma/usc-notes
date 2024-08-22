@@ -109,18 +109,19 @@ void deleteElem(List* list, int elem) {
 }
 
 void deleteAllOccur(List* list, int elem) {
-	if (list->count > 0) {
-		for (int i = 0; i < list->count; i++) {
-			if (list->elems[i] == elem) {
-				memmove(
-					list->elems + i,
-					list->elems + i + 1,
-					sizeof(int) * (list->count - i - 1)
-				);
+	int i = 0;
+	
+	while (i < list->count) {
+		if (list->elems[i] == elem) {
+			memmove(
+				list->elems + i,
+				list->elems + i + 1,
+				sizeof(int) * (list->count - i - 1)
+			);
 
-				i--;
-				list->count--;
-			}
+			list->count--;
+		} else {
+			i++;
 		}
 	}
 }
