@@ -66,7 +66,28 @@ void insertLastUnique(List* list, int elem) {
 		}
 	}
 }
+```
 
+```c title=insertion-loop-shift
+void insertSorted(List* list, int elem) {
+	if (list->count < MAX) {
+		int i = 0;
+
+		while (i < list->count && list->elems[i] < elem) {
+			i++;
+		}
+
+		for (int j = list->count - 1; j >= i; j--) {
+			list->elems[j + 1] = list->elems[j];
+		}
+
+		list->elems[i] = elem;
+		list->count++;
+	}
+}
+```
+
+```c title=insertion-memmove
 void insertSorted(List* list, int elem) {
 	if (list->count < MAX) {
 		int i = 0;
@@ -87,7 +108,43 @@ void insertSorted(List* list, int elem) {
 }
 ```
 
-```c title=deletion
+```c title=deletion-loop-shift
+void deleteElem(List* list, int elem) {
+	if (list->count > 0) {
+		int i = 0;
+
+		while (i < list->count && list->elems[i] != elem) {
+			i++;
+        }
+
+		if (i < list->count) {
+			list->count--;
+
+			for (int j = i; j < list->count; j++) {
+				list->elems[j] = list->elems[j + 1];
+			}
+		}
+	}
+}
+
+void deleteAllOccur(List* list, int elem) {
+	int i = 0;
+	
+	while (i < list->count) {
+		if (list->elems[i] == elem) {
+			list->count--;
+
+			for (int j = i; j < list->count; j++) {
+				list->elems[j] = list->elems[j + 1];
+			}
+		} else {
+			i++;
+		}
+	}
+}
+```
+
+```c title=deletion-memmove
 void deleteElem(List* list, int elem) {
 	if (list->count > 0) {
 		int i = 0;
