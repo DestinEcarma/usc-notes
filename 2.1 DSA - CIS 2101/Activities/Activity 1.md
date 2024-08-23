@@ -3,10 +3,12 @@ creation date: 2024-08-18T00:20:41
 tags:
   - DSA
 links:
+  - "[[Linked List]]"
+  - "[[Traversal]]"
   - "[[Pointer To Pointer To Node]]"
 ---
 
-# Activity #1
+# Activity 1
 
 Create a function to insert a new element at the end of a linked list. The function should handle the case where the element does not yet exist.
 

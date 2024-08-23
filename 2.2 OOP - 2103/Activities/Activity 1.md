@@ -3,9 +3,11 @@
 creation date: 2024-08-19T15:45:08
 tags:
   - OOP
+links:
+ - "[[Classes And Objects]]"
 ---
 
-# Activity #1
+# Activity 1
 
 ```java title=practice
 import java.util.*;

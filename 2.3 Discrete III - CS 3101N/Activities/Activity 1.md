@@ -2,10 +2,11 @@
 creation date: 2024-08-15T12:00:04
 tags:
   - Discrete
-  - LinearAlgebra
+links:
+  - "[[Linear Algebra]]"
 ---
 
-# Activity #1
+# Activity 1
 
 > "There is hardly any theory which is more elementary than **linear algebra**, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices."
 > 

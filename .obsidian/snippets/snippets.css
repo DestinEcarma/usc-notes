@@ -4,12 +4,11 @@ h3,
 h4,
 h5,
 h6,
-.inline-title,
-.HyperMD-header {
-    padding-bottom: 1rem !important;
-    border-bottom: 1px solid var(--color-base-30) !important;
+.inline-title {
+	padding-bottom: 1rem !important;
+	border-bottom: 1px solid var(--color-base-30) !important;
 }
 
 hr {
-    --hr-thickness: 1px;
+	--hr-thickness: 1px;
 }
