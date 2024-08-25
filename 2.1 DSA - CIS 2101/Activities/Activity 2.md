@@ -4,7 +4,6 @@ tags:
   - DSA
 links:
   - "[[Linked List]]"
-  - "[[Traversal]]"
   - "[[Pointer To Pointer To Node]]"
   - "[[Look-Ahead Technique]]"
 ---

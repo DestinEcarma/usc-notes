@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Array Implementation.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 5.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "9a14ce04f684f499",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Array Implementation.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Array Implementation.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Array Implementation.md"
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 5.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,17 +159,19 @@
   },
   "active": "c71495df03407694",
   "lastOpenFiles": [
+    "2.1 DSA - CIS 2101/Activities/Activity 4.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 6.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 5.md",
+    "2.1 DSA - CIS 2101/Array Implementation.md",
     "2.2 OOP - 2103/Classes And Objects.md",
     "2.2 OOP - 2103/Introduction.md",
-    "2.1 DSA - CIS 2101/Array Implementation.md",
     "2.3 Discrete III - CS 3101N/Activities/Activity 1.md",
     "2.2 OOP - 2103/Activities/Activity 1.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 4.md",
     "Untitled.md",
     "2.1 DSA - CIS 2101/Introduction.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
     "2.1 DSA - CIS 2101/Activities/Activity.md",
     "2.3 Discrete III - CS 3101N/Activities/Activity.md",
     "2.3 Discrete III - CS 3101N/Linear Algebra.md",
@@ -185,8 +185,6 @@
     "2.1 DSA - CIS 2101/Look-Ahead Technique.md",
     "2.1 DSA - CIS 2101/Excalidraw/Drawing 2024-08-21 20.19.57.excalidraw.md",
     "2.1 DSA - CIS 2101/Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-08-20 23.34.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-20 23.34.36_0.excalidraw.md",
     "2.3 Discrete III - CS 3101N/Excalidraw",
     "Excalidraw",
     "2.2 OOP - 2103/Activities",
