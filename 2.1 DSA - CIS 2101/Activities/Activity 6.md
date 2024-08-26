@@ -57,7 +57,7 @@ void insert(Student elem, Position pos, ListPtr list) {
 				sizeof(Student) * (list->arrSize * 2)
 			);
 
-			if (newList != NULL) {
+			if (newArr != NULL) {
 				list->students = newArr;
 				list->arrSize *= 2;
 			}
@@ -70,6 +70,7 @@ void insert(Student elem, Position pos, ListPtr list) {
 				sizeof(Student) * (list->count - pos)
 			);
 
+			list->students[pos] = elem;
 			list->count++;
 		}
 	}
@@ -81,7 +82,7 @@ void delete(Position pos, ListPtr list) {
 			list->students + pos,
 			list->students + pos + 1,
 			sizeof(Student) * (list->count - pos - 1)
-		)
+		);
 
 		list->count--;
 
@@ -126,19 +127,18 @@ void makenull(ListPtr list) {
 }
 
 void printList(ListPtr list) {
-	Student elem;
-
 	for (int i = 0; i < list->count; i++) {
-		elem = list->students[i];
+		Student* elem = list->students + i;
 
 		printf(
-			"ID: %d, Name: %s %c %s, Course: %s, Year: %s\n",
-			elem.studentId
-			elem.name.fName,
-			elem.name.mInitial,
-			elem.name.lName,
-			elem.course,
-			elem.year
+			"[%d]: ID: %d, Name: %s %c. %s, Course: %s, Year: %s\n",
+			i + 1,
+			elem->studentId
+			elem->name.fName,
+			elem->name.mInitial,
+			elem->name.lName,
+			elem->course,
+			elem->year
 		);
 	}
 }
@@ -149,29 +149,24 @@ void initialize(ListPtr, int);
 
 int main(void) {
 	List studentList;
-	ListPtr list = &studentList;
 
-	initialize(list, 10);
+	initialize(&list, 10);
 
-	insert({
-		name: { "Destin", "Ecarma", 'R' },
-		course: "BSCS",
-		studentId: 23100411,
-		year: 2
-	}, 0, list);
+	insert((Student) {
+		.name = { "Destin", "Ecarma", 'R' },
+		.course = "BSCS",
+		.studentId = 23100411,
+		.year = 2
+	}, 0, &list);
 
-	printList(list);
+	printList(&list);
 
 	return 0;
 }
 
-void initialize(ListPtr* L, int arrSize) {
-	*L = (ListPtr)malloc(sizeof(List));
-
-	if (*L != NULL) {
-		(*L)->students = (Student*)malloc(sizeof(Student) * arrSize);
-		(*L)->arrSize = arrSize;
-		(*L)->count = 0;
-	}
+void initialize(ListPtr L, int arrSize) {
+	L->students = (Student*)malloc(sizeof(Student) * arrSize);
+	L->arrSize = arrSize;
+	L->count = 0;
 }
 ```
