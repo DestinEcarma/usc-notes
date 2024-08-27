@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II - CIS 2105/OSI Model.md",
-                "mode": "preview",
+                "file": "Networking II - CIS 2105/Activities/Activity 1.md",
+                "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "547571aa53d48603"
+          }
+        ]
+      },
+      {
+        "id": "51ebe08e41eb5102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df21f2cced31d9a0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Networking II - CIS 2105/Activities/Activity 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "547571aa53d48603"
           }
         ]
       }
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Networking II - CIS 2105/OSI Model.md",
+            "file": "Networking II - CIS 2105/Activities/Activity 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Networking II - CIS 2105/OSI Model.md",
+            "file": "Networking II - CIS 2105/Activities/Activity 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Networking II - CIS 2105/OSI Model.md"
+            "file": "Networking II - CIS 2105/Activities/Activity 1.md"
           }
         }
       }
@@ -136,6 +179,9 @@
   },
   "active": "f8187c8aeaf6b3eb",
   "lastOpenFiles": [
+    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 6.md",
+    "Networking II - CIS 2105/OSI Model.md",
     "2.1 DSA - CIS 2101/Array Implementation.md",
     "2.2 OOP - 2103/Classes And Objects.md",
     "2.1 DSA - CIS 2101/Activities/Activity #4.md",

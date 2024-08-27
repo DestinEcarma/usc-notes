@@ -4,8 +4,6 @@ tags:
   - DSA
 links:
   - "[[Linked List]]"
-  - "[[Pointer To Pointer To Node]]"
-  - "[[Look-Ahead Technique]]"
 ---
 
 # Activity 2
@@ -26,7 +24,7 @@ typedef struct node {
 	2. `initListNoHeader()` - *The function will intialize the given list to be empty by simply making it NULL. See illustration above.*
 - `Function insertLast()` the function will insert a given element at the last position of the given list.
 
-	Write the code of function insertLast() using the following versions:
+	Write the code of function `insertLast()` using the following versions:
 	1. List with header cell: This list variation will use a look-ahead technique for traversal.
 	2. List without header cell:
 		- Version 1: Using a [[Pointer To Pointer To Node|PPN]] to traverse

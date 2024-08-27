@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c71495df03407694",
+            "id": "cdce24b62247126b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II - CIS 2105/Activities/Activity 1.md",
+                "file": "2.3 Discrete III - CS 3101N/Linear Equation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II - CIS 2105/Activities/Activity 1.md",
+                "file": "2.3 Discrete III - CS 3101N/Linear Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II - CIS 2105/Activities/Activity 1.md",
+                "file": "2.3 Discrete III - CS 3101N/Linear Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II - CIS 2105/Activities/Activity 1.md"
+                "file": "2.3 Discrete III - CS 3101N/Linear Equation.md"
               }
             }
           },
@@ -157,37 +157,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c71495df03407694",
+  "active": "cdce24b62247126b",
   "lastOpenFiles": [
-    "2.3 Discrete III - CS 3101N/Activities/Activity 1.md",
-    "2.2 OOP - 2103/Activities/Activity 1.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
+    "2.3 Discrete III - CS 3101N/Systems of Linear Equation.md",
+    "2.3 Discrete III - CS 3101N/Linear Equation.md",
+    "2.3 Discrete III - CS 3101N/Linear Algebra.md",
+    "2.3 Discrete III - CS 3101N/Algebraic Equation.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 8.md",
     "2.1 DSA - CIS 2101/Activities/Activity 2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
+    "2.1 DSA - CIS 2101/Pointer To Pointer To Node.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
     "2.1 DSA - CIS 2101/Activities/Activity 4.md",
     "2.1 DSA - CIS 2101/Activities/Activity 5.md",
     "2.1 DSA - CIS 2101/Activities/Activity 6.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 7.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 9.md",
+    "2.1 DSA - CIS 2101/Stack.md",
+    "2.1 DSA - CIS 2101/Queues.md",
+    "2.1 DSA - CIS 2101/Trailing Pointers.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Stack.excalidraw.md",
+    "Templates/Activity.md",
+    "2.1 DSA - CIS 2101/Array Implementation.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Queues.excalidraw.md",
     "Networking II - CIS 2105/Activities/Activity 1.md",
+    "2.3 Discrete III - CS 3101N/Activities/Activity 1.md",
+    "2.2 OOP - 2103/Activities/Activity 1.md",
     "Networking II - CIS 2105/Subnetting.md",
     "Networking II - CIS 2105/Activities",
     "Networking II - CIS 2105/Untitled.md",
-    "Networking II - CIS 2105/Network.md",
-    "Networking II - CIS 2105/OSI Model.md",
-    "Networking II - CIS 2105/Excalidraw/OSI Model.excalidraw.md",
     "Networking II - CIS 2105/Excalidraw",
     "Networking II - CIS 2105",
-    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
-    "2.1 DSA - CIS 2101/Array Implementation.md",
-    "2.2 OOP - 2103/Classes And Objects.md",
-    "2.2 OOP - 2103/Introduction.md",
-    "Untitled.md",
-    "2.1 DSA - CIS 2101/Introduction.md",
-    "2.1 DSA - CIS 2101/Activities/Activity.md",
-    "2.3 Discrete III - CS 3101N/Activities/Activity.md",
-    "2.3 Discrete III - CS 3101N/Linear Algebra.md",
-    "2.3 Discrete III - CS 3101N/Quick Notes.md",
-    "2.3 Discrete III - CS 3101N/Excalidraw/Figure 1.excalidraw.md",
-    "2.1 DSA - CIS 2101/Linked List.md",
-    "2.1 DSA - CIS 2101/Trailing Pointers.md",
     "2.3 Discrete III - CS 3101N/Excalidraw",
     "Excalidraw",
     "2.2 OOP - 2103/Activities",
