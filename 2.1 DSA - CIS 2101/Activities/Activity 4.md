@@ -2,6 +2,8 @@
 creation date: 2024-08-21T16:25:23
 tags:
   - DSA
+external links:
+  - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-4
 ---
 
 # Activity 4

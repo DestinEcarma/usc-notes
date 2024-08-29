@@ -4,6 +4,8 @@ tags:
   - DSA
 links:
   - "[[Pointer To Pointer To Node]]"
+external links:
+  - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-1
 ---
 
 # Activity 1

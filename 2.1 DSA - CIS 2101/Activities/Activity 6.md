@@ -4,6 +4,8 @@ tags:
   - DSA
 links:
   - "[[Array Implementation]]"
+external links:
+  - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-6
 ---
 
 # Activity 6

@@ -2,6 +2,8 @@
 creation date: 2024-08-21T16:10:15
 tags:
   - DSA
+external links:
+  - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-3
 ---
 
 # Activity 3
