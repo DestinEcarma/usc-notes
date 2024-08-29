@@ -4,11 +4,11 @@ tags:
   - DSA
 ---
 
-# Queues
+# Queue
 
 A **Queue** is a linear data structure in *Data Structures and Algorithms (DSA)* that follows the **"First-In-First-Out" (FIFO)** principle. This means that the first element added to the queue will be the first one to be removed. Queues are used in various scenarios like scheduling tasks, managing resources in computer systems, and in *breadth-first search (BFS)* algorithms.
 
-![[Queues.excalidraw|100%]]
+![[Queue.excalidraw|100%]]
 
 Queues are a fundamental data structure in computer science, used whenever it's necessary to process elements in the order they were added. ==They provide efficient $O(1)$ time complexity for both enqueue and dequeue== operations when implemented with linked lists or circular arrays.
 

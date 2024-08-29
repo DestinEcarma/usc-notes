@@ -4,7 +4,7 @@ tags:
   - DSA
 links:
   - "[[Linked List]]"
-  - "[[Queues]]"
+  - "[[Queue]]"
 ---
 
 # Activity 7
@@ -60,11 +60,11 @@ void dequeue(Queue* queue) {
 	if (queue->front != NULL) {
 	    Node* temp = queue->front;
 	    queue->front = temp->next;
-	
+
 	    if (queue->front == NULL) {
 	      queue->rear = NULL;
 	    }
-	
+
 	    free(temp);
 	}
 }

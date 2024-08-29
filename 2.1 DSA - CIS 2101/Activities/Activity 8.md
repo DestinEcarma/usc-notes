@@ -4,7 +4,7 @@ tags:
   - DSA
 links:
   - "[[Array Implementation]]"
-  - "[[Queues]]"
+  - "[[Queue]]"
 ---
 
 # Activity 8
@@ -19,9 +19,9 @@ Create a queue using an array. Implement the following operations:
 #define MAX 10
 
 typedef struct {
-  int elems[MAX];
-  int front;
-  int rear;
+	int elems[MAX];
+	int front;
+	int rear;
 } Queue;
 ```
 
@@ -29,8 +29,8 @@ typedef struct {
 
 ```c title=initQueue
 void initQueue(Queue* queue) {
-  queue->front = 1;
-  queue->rear = 0;
+	queue->front = 1;
+x  queue->rear = 0;
 }
 ```
 
@@ -45,8 +45,8 @@ void enqueue(Queue* queue) {
 
 ```c  title=dequeue
 void dequeue(Queue* queue) {
-  if (queue->front != (queue->rear + 1) % MAX) {
-      queue->front = (queue->front + 1) % MAX;
-  }
+	if (queue->front != (queue->rear + 1) % MAX) {
+	    queue->front = (queue->front + 1) % MAX;
+	}
 }
 ```
