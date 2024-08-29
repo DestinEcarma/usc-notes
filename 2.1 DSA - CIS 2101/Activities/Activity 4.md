@@ -2,13 +2,11 @@
 creation date: 2024-08-21T16:25:23
 tags:
   - DSA
-links:
-  - "[[Array Implementation]]"
 ---
 
 # Activity 4
 
-Based on the definition of the array implementation of list write the code of the ff:
+Based on the definition of the [[Array Implementation|array implementation]] of list write the code of the ff:
 
 1. `initList()`
 2. `insertLast()`

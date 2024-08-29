@@ -2,14 +2,11 @@
 creation date: 2024-08-27T20:37:12
 tags:
   - DSA
-links:
-  - "[[Array Implementation]]"
-  - "[[Queue]]"
 ---
 
 # Activity 8
 
-Create a queue using an array. Implement the following operations:
+Create a [[Queue|queue]] using an [[Array Implementation|array]]. Implement the following operations:
 
 1. `initQueue`: Initialize the queue.
 2. `enqueue`: Add an element to the end of the queue.

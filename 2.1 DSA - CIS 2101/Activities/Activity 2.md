@@ -2,13 +2,11 @@
 creation date: 2024-08-18T00:31:28
 tags:
   - DSA
-links:
-  - "[[Linked List]]"
 ---
 
 # Activity 2
 
-> A linked list can be implemented in computer’s memory WITH or WITHOUT header. A header cell is a dynamically allocated node or cell that will not store any data. It is used to have uniformity in accessing and hence making the code concise but with an additional storage overhead.
+> A [[Linked List|linked list]] can be implemented in computer’s memory WITH or WITHOUT header. A header cell is a dynamically allocated node or cell that will not store any data. It is used to have uniformity in accessing and hence making the code concise but with an additional storage overhead.
 
 ```c title=datatype
 typedef struct node {

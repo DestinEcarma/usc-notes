@@ -2,13 +2,11 @@
 creation date: 2024-08-21T16:10:15
 tags:
   - DSA
-links:
-  - "[[Linked List]]"
 ---
 
 # Activity 3
 
-Write the code and the function that will return the middle element of the given linked list. **Return a dummy value of a list if empty.**
+Write the code and the function that will return the middle element of the given [[Linked List|linked list]]. **Return a dummy value of a list if empty.**
 
 Condition:
 

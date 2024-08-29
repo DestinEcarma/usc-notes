@@ -2,14 +2,11 @@
 creation date: 2024-08-27T20:07:08
 tags:
   - DSA
-links:
-  - "[[Linked List]]"
-  - "[[Queue]]"
 ---
 
 # Activity 7
 
-Create a queue using a linked list. Implement the following operations:
+Create a [[Queue|queue]] using a [[Linked List|linked list]]. Implement the following operations:
 
 1. `initQueue`: Initialize the queue.
 2. `enqueue`: Add an element to the end of the queue.

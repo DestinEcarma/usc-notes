@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 9.md",
-                "mode": "source",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 9.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 9.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 9.md"
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 1.md"
               }
             }
           },
@@ -159,9 +159,17 @@
   },
   "active": "628f816217c5c57d",
   "lastOpenFiles": [
+    "2.1 DSA - CIS 2101/Traversal.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
+    "2.1 DSA - CIS 2101/Pointer To Pointer To Node.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 4.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 5.md",
     "2.1 DSA - CIS 2101/Activities/Activity 6.md",
     "2.1 DSA - CIS 2101/Activities/Activity 7.md",
     "2.1 DSA - CIS 2101/Activities/Activity 8.md",
+    "Untitled.md",
     "2.1 DSA - CIS 2101/Activities/Activity 9.md",
     "2.1 DSA - CIS 2101/Stack.md",
     "2.1 DSA - CIS 2101/Abstract Data Type.md",
@@ -174,17 +182,9 @@
     "2.3 Discrete III - CS 3101N/Systems of Linear Equation.md",
     "2.3 Discrete III - CS 3101N/Linear Algebra.md",
     "2.3 Discrete III - CS 3101N/Algebraic Equation.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
-    "2.1 DSA - CIS 2101/Pointer To Pointer To Node.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 4.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 5.md",
     "2.1 DSA - CIS 2101/Trailing Pointers.md",
     "2.1 DSA - CIS 2101/Excalidraw/Stack.excalidraw.md",
     "Templates/Activity.md",
-    "Networking II - CIS 2105/Activities/Activity 1.md",
-    "2.3 Discrete III - CS 3101N/Activities/Activity 1.md",
     "Networking II - CIS 2105/Activities",
     "Networking II - CIS 2105/Excalidraw",
     "Networking II - CIS 2105",
