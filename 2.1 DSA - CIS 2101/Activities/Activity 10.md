@@ -117,9 +117,9 @@ void deleteData(Cursor* cursor, List* head, int data) {
 		}
 
 		if (curr->data == data) {
-			int temp = curr->link;
-			deallocSpace(cursor, *head);
-			*head = temp;
+			int temp = *head;
+			*head = curr->link;
+			deallocSpace(cursor, temp);
 		}
 	}
 }
