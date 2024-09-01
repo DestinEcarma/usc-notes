@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+                "file": "2.1 DSA - CIS 2101/Cursor Based Implementation.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+                "file": "2.1 DSA - CIS 2101/Cursor Based Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+                "file": "2.1 DSA - CIS 2101/Cursor Based Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md"
+                "file": "2.1 DSA - CIS 2101/Cursor Based Implementation.md"
               }
             }
           },
@@ -172,8 +172,13 @@
   },
   "active": "7e3037974f76a50c",
   "lastOpenFiles": [
-    "2.1 DSA - CIS 2101/Excalidraw/Drawing 2024-08-31 22.45.31.excalidraw.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 9.md",
+    "2.1 DSA - CIS 2101/Cursor Based Implementation.md",
+    "2.3 Discrete III - CS 3101N/Untitled.md",
     "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+    "2.3 Discrete III - CS 3101N/Linear Equation.md",
+    "2.3 Discrete III - CS 3101N/Linear Algebra.md",
+    "2.1 DSA - CIS 2101/Excalidraw/Drawing 2024-08-31 22.45.31.excalidraw.md",
     "2.1 DSA - CIS 2101/Introduction.md",
     "2.1 DSA - CIS 2101/Excalidraw/Drawing 2024-08-31 22.00.27.excalidraw.md",
     "2.3 Discrete III - CS 3101N/Activities/Activity 1.md",
@@ -181,8 +186,6 @@
     "Networking II - CIS 2105/Subnetting.md",
     "Networking II - CIS 2105/OSI Model.md",
     "Networking II - CIS 2105/Network.md",
-    "2.3 Discrete III - CS 3101N/Linear Equation.md",
-    "2.3 Discrete III - CS 3101N/Linear Algebra.md",
     "2.2 OOP - 2103/Introduction.md",
     "2.2 OOP - 2103/Classes And Objects.md",
     "2.1 DSA - CIS 2101/Traversal.md",
@@ -195,9 +198,6 @@
     "2.1 DSA - CIS 2101/Linked List.md",
     "2.1 DSA - CIS 2101/Array Implementation.md",
     "2.1 DSA - CIS 2101/Abstract Data Type.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 1.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 2.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 3.md",
     "Networking II - CIS 2105/Activities",
     "Networking II - CIS 2105/Excalidraw",
     "Networking II - CIS 2105",
