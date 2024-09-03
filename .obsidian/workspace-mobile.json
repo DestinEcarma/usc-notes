@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 8.md",
                 "mode": "preview",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+                "file": "2.1 DSA - CIS 2101/Activities/Activity 8.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+            "file": "2.1 DSA - CIS 2101/Activities/Activity 8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+            "file": "2.1 DSA - CIS 2101/Activities/Activity 8.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2.1 DSA - CIS 2101/Activities/Activity 10.md"
+            "file": "2.1 DSA - CIS 2101/Activities/Activity 8.md"
           }
         }
       }
@@ -179,10 +179,14 @@
   },
   "active": "f8187c8aeaf6b3eb",
   "lastOpenFiles": [
+    "2.1 DSA - CIS 2101/Activities/Activity 9.md",
+    "2.1 DSA - CIS 2101/Activities/Activity 10.md",
+    "2.1 DSA - CIS 2101/Abstract Data Type.md",
+    "LTAR/Interpersonal Relationships.md",
+    "LTAR",
     "2.3 Discrete III - CS 3101N/Algebraic Equation.md",
     "2.1 DSA - CIS 2101/Activities/Activity 8.md",
     "2.1 DSA - CIS 2101/Activities/Activity 7.md",
-    "2.1 DSA - CIS 2101/Activities/Activity 9.md",
     "2.3 Discrete III - CS 3101N/Linear Equation.md",
     "2.3 Discrete III - CS 3101N/Linear Algebra.md",
     "Networking II - CIS 2105/Activities/Activity 1.md",
@@ -201,8 +205,6 @@
     "Figure 1.excalidraw.md",
     "2.1 DSA - CIS 2101/Introduction.md",
     "2.2 OOP - 2103/Excalidraw/Object Sample.excalidraw.md",
-    "2.1 DSA - CIS 2101/Excalidraw/Linked List Sample.excalidraw.md",
-    "Drawing 2024-08-19 16.50.43.excalidraw.md",
-    "Quick Notes.md"
+    "2.1 DSA - CIS 2101/Excalidraw/Linked List Sample.excalidraw.md"
   ]
 }

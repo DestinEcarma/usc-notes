@@ -8,7 +8,7 @@ external links:
 
 # Activity 10
 
-Create a cursor based implementation of operations for a linked list. Implement the following operations:
+Create a [[Cursor Based Implementation|cursor based implementation]] of operations for a linked list. Implement the following operations:
 
 1. `initList`: Initialize the linked list.
 2. `allocSpace`: Allocate space for a new node.

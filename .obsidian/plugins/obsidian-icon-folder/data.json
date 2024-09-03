@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBluetoothConnected",
       "LiNetwork",
       "LiSnapToObject",
       "LiPencilRuler",
-      "LiTags",
-      "LiBookTemplate"
+      "LiTags"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,9 @@
   "Networking II - CIS 2105": {
     "iconName": "LiNetwork",
     "iconColor": "#ffff00"
+  },
+  "LTAR": {
+    "iconName": "LiBluetoothConnected",
+    "iconColor": "#0061fe"
   }
 }

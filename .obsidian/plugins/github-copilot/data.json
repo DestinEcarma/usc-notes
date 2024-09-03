@@ -1,6 +1,6 @@
 {
   "nodePath": "C:\\Program Files\\nodejs\\node.exe",
-  "enabled": true,
+  "enabled": false,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",
