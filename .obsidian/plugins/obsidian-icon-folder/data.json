@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivity",
       "LiBluetoothConnected",
       "LiNetwork",
       "LiSnapToObject",
-      "LiPencilRuler",
-      "LiTags"
+      "LiPencilRuler"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,9 @@
   "LTAR": {
     "iconName": "LiBluetoothConnected",
     "iconColor": "#0061fe"
+  },
+  "Ethics": {
+    "iconName": "LiActivity",
+    "iconColor": "#00fbff"
   }
 }

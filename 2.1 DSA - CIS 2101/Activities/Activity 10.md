@@ -2,7 +2,7 @@
 creation date: 2024-08-29T19:28:48
 tags:
   - DSA
-external links:
+**external** links:
   - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-10
 ---
 
