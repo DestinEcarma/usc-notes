@@ -19,8 +19,8 @@ typedef struct {
 } Node;
 
 typedef struct {
- Node nodes[MAX];
-    int avail;
+	Node nodes[MAX];
+	int avail;
 } VirtualHeap;
 ```
 
@@ -30,13 +30,13 @@ The `malloc` function is simulated by the `allocSpace` function, which returns t
 
 ```c title=allocSpace
 int allocSpace(VirtualHeap* heap) {
- int avail = heap->avail;
+	int avail = heap->avail;
 
- if (avail != -1) {
-  heap->avail = heap->nodes[avail].link;
- }
+	if (avail != -1) {
+		heap->avail = heap->nodes[avail].link;
+	}
 
- return avail;
+	return avail;
 }
 ```
 
@@ -44,9 +44,9 @@ The `free` function is simulated by the `deallocSpace` function, which deallocat
 
 ```c title=deallocSpace
 void deallocSpace(VirtualHeap* heap, int index) {
- if (index >= 0 && index < MAX) {
-  heap->nodes[index].link = heap->avail;
-  heap->avail = index;
- }
+	if (index >= 0 && index < MAX) {
+		heap->nodes[index].link = heap->avail;
+		heap->avail = index;
+	}
 }
 ```
