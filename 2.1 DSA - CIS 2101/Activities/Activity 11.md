@@ -56,35 +56,34 @@ void insertSorted(Cursor* cursor, List* head, int data) {
 boolean isEqualListOrderedTest(Cursor* cursor, List A, List B) {
 	while (
 		A != -1 && B != -1 &&
-		&cursor->nodes[A].data != &curosr->nodes[B].data
+		cursor->nodes[A].data == cursor->nodes[B].data
 	) {
-		A = &cursor->nodes[A].link;
-		B = &cursor->nodes[B].link;
+		A = cursor->nodes[A].link;
+		B = cursor->nodes[B].link;
 	}
 
-	return (A == -1 && B == -1) TRUE : FALSE;
+	return (A == -1 && B == -1) ? TRUE : FALSE;
 }
 
-boolean isEqualListUnorderedTest(Cursor* cursor, List A, List B) {
-	boolean result = TRUE;
+boolean isEqualListUnorderedTest(Cursor cursor, List A, List B) {
+	List *trav = &B;
 
-	while (result == TRUE && A != -1) {
-		List trav = B;
-
+	while (A != -1 && *trav != -1) {
 		while (
-			trav != -1 && trav &&
-			cursor->nodes[A].data != cursor->nodes[trav].data
+			*trav != -1 &&
+			cursor.nodes[A].data != cursor.nodes[*trav].data
 		) {
-			trav = cursor->nodes[trav].link;
+			trav = &cursor.nodes[*trav].link;
 		}
 
-		if (trav == -1) {
-			result = FALSE;
+		if (*trav != -1) {
+			deleteFirst(&cursor, trav);
+			trav = &B;
 		}
 
-		A = cursor->nodes[A].link;
+		A = cursor.nodes[A].link;
 	}
 
-	return result;
+	return (A == -1 && B == -1) ? TRUE : FALSE;
 }
 ```
