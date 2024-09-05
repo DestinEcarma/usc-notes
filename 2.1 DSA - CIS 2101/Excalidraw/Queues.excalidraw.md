@@ -6,9 +6,16 @@ tags: [excalidraw]
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+<<<<<<< Updated upstream
 
 # Excalidraw Data
 ## Text Elements
+=======
+# Excalidraw Data
+
+## Text Elements
+
+>>>>>>> Stashed changes
 3 ^l6Ri0cae
 
 4 ^7tyDCXpr
@@ -34,7 +41,13 @@ Rear ^oZhjP9uX
 Front ^dQRJZk27
 
 %%
+<<<<<<< Updated upstream
 ## Drawing
+=======
+
+## Drawing
+
+>>>>>>> Stashed changes
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBmbQAGGjoghH0EDihmbgBtcDBQMBLoeHF0QOwojmVg1JLIRhZ2LjQARgB2flLm1k4AOU4xbnaANgBWABYkzvaADgBOeJ7I
 
@@ -104,4 +117,9 @@ uW9ArYixzYjwDekdGebrx2TLa8BONhVbvMK4p8CeK4nLbqBAiKJIiiMSW3uJSO5yVlOvAQeKMzU6XdlB
 
 GIKUFbZZvRZo/QEqJ4GYh44pAGztiPtAkBDhVo9XiQAwy4p04+oaSMaB1CLBJxk4q0PLGUCVg1BbqNsEcGXHLigiABb0aKKJCaiSYnAYTuJggDQIEAZgYQMwAPDCxiAhwupFr0yDywuEwsV3hnwH64BNAwQECI4NJFEBq+yWGHtKHBRojQRnxYQFAHVjediEf1CAHYHBAgFmAKIcFHABhBsBNgWnF8W+PUbYpa+wQIhpTmXBAA==
 ```
+<<<<<<< Updated upstream
 %%
+=======
+
+%%
+>>>>>>> Stashed changes
