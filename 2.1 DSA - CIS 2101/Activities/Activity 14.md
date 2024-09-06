@@ -14,7 +14,7 @@ Create a function `displayBitPattern`, that should work for no matter what size.
 void displayBitPattern(void* value, int size) {
 	unsigned char* bytes = (unsigned char*) value;
 
-	for (int i = size - 1; i >= 0; i--) {
+	for (int i = size - 1; i >= 0 && size > 1; i--) {
 		int j = 7;
 
 		while (j >= 0) {
