@@ -12,9 +12,11 @@ Create a function `displayBitPattern`, that should work for no matter what size.
 
 ```c title=implementation
 void displayBitPattern(void* value, int size) {
-	unsigned char* bytes = (unsigned char*) value;
+	char* bytes = (char*) value;
 
-	for (int i = size - 1; i >= 0 && size > 1; i--) {
+	// Purpose of this part is to reduce the size
+	// until it reaches the first significant bit
+	for (int i = size - 1; i >= 0; i--) {
 		int j = 7;
 
 		while (j >= 0) {
@@ -25,7 +27,7 @@ void displayBitPattern(void* value, int size) {
 			j--;
 		}
 
-		if (j < 0 && i >= 0) {
+		if (j < 0 && i > 0) {
 			size--;
 		}
 	}
