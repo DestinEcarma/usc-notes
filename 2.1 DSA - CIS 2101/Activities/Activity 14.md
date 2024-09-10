@@ -2,6 +2,8 @@
 creation date: 2024-09-06T23:04:18
 tags:
   - DSA
+external links:
+  - https://github.com/DestinEcarma/learning-c/tree/main/DSA/activity-14
 ---
 
 # Activity 14
@@ -12,7 +14,7 @@ Create a function `displayBitPattern`, that should work for no matter what size.
 
 ```c title=implementation
 void displayBitPattern(void* value, int size) {
-	char* bytes = (char*) value;
+	unsigned char* bytes = (unsigned char*) value;
 
 	// Purpose of this part is to reduce the size
 	// until it reaches the first significant bit
