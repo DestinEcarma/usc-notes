@@ -16,7 +16,9 @@ void deleteAfter(Node* head, int key) {
 		while (
 			curr->data != key && \ // `\` is not needed on modern compilers
 			curr->next != NULL
-		) curr = curr->next;
+		) {
+			curr = curr->next;
+		}
 
 		if (curr->next != NULL) {
 		    Node* temp = curr->next;

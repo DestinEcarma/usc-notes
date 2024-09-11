@@ -26,7 +26,7 @@ Some common examples of Abstract Data Types include:
 
 - **List**: A data structure that stores a collection of elements in a specific order.
 - **[[Stack]]**: A data structure that follows the **Last-In-First-Out (LIFO)** principle.
-- **[[Queue]]**: A data structure that follows the **First-In-First-Out (FIFO)** principle.
+- **[[Queues]]**: A data structure that follows the **First-In-First-Out (FIFO)** principle.
 
 ## References
 
