@@ -30,7 +30,7 @@ typedef struct node {
 // 1024 then this means we need at least
 // 128 bytes, the formula is simple
 // $size = N / 8$ rounded up.
-#define MAX_INT_UNORDERED_TEST = 8
+#define MAX_INT_UNORDERED_TEST 8
 
 Set unionSetOrderedTest(Set A, Set B) {
 	Set result = NULL;
@@ -93,7 +93,7 @@ Set unionSetUnorderedTest(Set A, Set B) {
 	Set* tail = &result;
 
 	// Not the most efficient method in terms of space.
-	// Time complixity $O(1)$.
+	// Time complixity $O(N)$.
 	unsigned char set[MAX_INT_UNORDERED_TEST] = {};
 
 	while (A != NULL) {
