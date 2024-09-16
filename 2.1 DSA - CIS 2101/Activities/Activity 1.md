@@ -86,25 +86,22 @@ void printList(List L) {
 }
 
 // * Function Definition
-void insertLast(List* L, int x) {
-	// Prevent NULL pointers
-	if (L != NULL) {
-		// Traverse through the linked list until it
-		// reaches the last node, and the new data
-		// must not be in the linked list
-		while (*L != NULL && (*L)->data != x) L = &((*L)->next);
-		
-		// Check if L is the last node
-		if (*L == NULL) {
-			nodetype* newNode = (nodetype*)malloc(sizeof(nodetype));
+void insertLast(List* list, int x) {
+	// Traverse through the linked list until it
+	// reaches the last node, and the new data
+	// must not be in the linked list
+	while (*list != NULL && (*list)->data != x) list = &((*list)->next);
 
-			// Check if the allocation was a success
-			if (newNode != NULL) {
-				newNode->data = x;
-				newNode->next = NULL;
-				
-				*L = newNode;
-			}
+	// Check if L is the last node
+	if (*list == NULL) {
+		Node* newNode = (Node*)malloc(sizeof(Node));
+
+		// Check if the allocation was a success
+		if (newNode != NULL) {
+			newNode->data = x;
+			newNode->next = NULL;
+
+			*list = newNode;
 		}
 	}
 }

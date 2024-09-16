@@ -17,8 +17,8 @@ Create a [[Sets|set]] list of operations for a [[Linked List|linked list]]. Impl
 
 ```c title=datatypes
 typedef struct node {
-  int data;
-  struct node *next;
+	int data;
+	struct node *next;
 } Node, *Set;
 ```
 

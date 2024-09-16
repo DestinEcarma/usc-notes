@@ -30,6 +30,10 @@ typedef char Set[MAX];
 ```c title=implementation
 void zeroSet(Set* set) {
 	memset(*set, 0, sizeof(short) * MAX);
+
+	/*for (int i = 0; i < MAX; i++) {*/
+	/*	(*set)[i] = 0;*/
+	/*}*/
 }
 
 void insertSet(Set* set, int data) {
