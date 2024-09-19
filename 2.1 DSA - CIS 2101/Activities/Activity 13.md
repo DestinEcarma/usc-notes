@@ -137,25 +137,24 @@ bool isEqualSetSortedTest(Set A, Set B) {
 bool isEqualSetUnsortedTest(Set A, Set B) {
 	bool result = true;
 
-	int lengthA = lengthSet(A);	
-	int lengthB = lengthSet(B);
+	Node *outerA = A;
+	Node *outerB = B;
 
-	if (lengthA != lengthB) {
-		result = false;
-	} else {
-		Node* outer = (lengthA > lengthB) ? A : B;
-		Node* inner = (lengthA > lengthB) ? B : A;
+	while (outerA != NULL && outerB != NULL && result) {
+		Node *innerA = A;
+		Node *innerB = B;
 
-		while (outer != NULL && result) {
-			Node* trav = inner;
-
-			while (trav != NULL && outer->data != inner->data) {
-				trav = trav->next;
-			}
-
-			result = inner != NULL;
-			outer = outer->next;
+		while (innerA != NULL && outerB->data != innerA->data) {
+			innerA = innerA->next;
 		}
+
+		while (innerB != NULL && outerA->data != innerB->data) {
+			innerB = innerB->next;
+		}
+
+		result = innerA != NULL && innerB != NULL;
+		outerA = outerA->next;
+		outerB = outerB->next;
 	}
 
 	return result;
